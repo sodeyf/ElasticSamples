@@ -4,3 +4,8 @@
 
 /.vs
 /ElasticSamples_Nest/obj
+/AerospikeClient/obj
+/AerospikeClient/bin/Debug/net9.0
+/AerospikeClientTest/bin/Debug/net9.0
+/AerospikeClientTest/obj
+/ElasticSamples_Nest/bin/Debug/net9.0
