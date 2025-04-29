@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NEST" Version="7.17.5" />
+    <PackageReference Include="Aerospike.Client" Version="8.0.2" />
   </ItemGroup>
 
 </Project>
